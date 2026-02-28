@@ -1,0 +1,49 @@
+div {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+/* Page heading */
+h1 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+/* Form layout */
+form {
+  display: inline-block;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Input fields */
+input {
+  width: 220px;
+  padding: 10px;
+  margin: 10px 0;
+  display: block;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hover effect */
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Remove link underline */
+a {
+  text-decoration: none;
+}

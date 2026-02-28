@@ -1,0 +1,31 @@
+.about {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px;
+  font-family: Arial, sans-serif;
+  text-align: center;   /* 🔥 header + text center */
+}
+
+/* Header center */
+.about h1 {
+  color: #2c3e50;
+  margin-bottom: 25px;
+  text-align: center;   /* 🔥 force center */
+}
+
+/* Image center */
+.about-img {
+  width: 350px;         /* little bigger looks nice */
+  height: auto;
+  border-radius: 12px;
+  display: block;       /* 🔥 important */
+  margin: 0 auto 25px auto; /* 🔥 exact center */
+}
+
+/* Paragraphs */
+.about p {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
